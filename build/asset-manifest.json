@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ab0ceb.css",
+    "main.js": "/static/js/main.f36a57aa.js",
+    "static/media/komalKarwa.jpg": "/static/media/komalKarwa.a71c37173f6f57a81e79.jpg",
+    "static/media/cricket3.040c5260.jpg": "/static/media/cricket3.040c5260.040c5260feb4e7dde380.jpg",
+    "static/media/cricket2.924eb79e.jpg": "/static/media/cricket2.924eb79e.924eb79e6405e85b1fc6.jpg",
+    "static/media/team2.df543210.jpg": "/static/media/team2.df543210.df54321062076ee36077.jpg",
+    "static/media/students.b3214fdf.jpg": "/static/media/students.b3214fdf.b3214fdfd807a63d639e.jpg",
+    "static/media/team.26da34a6.jpg": "/static/media/team.26da34a6.26da34a63a0b678c471e.jpg",
+    "static/media/f3.af7211d8.jpg": "/static/media/f3.af7211d8.af7211d8f58dec6db55c.jpg",
+    "static/media/about2.3bb3d538.jpg": "/static/media/about2.3bb3d538.3bb3d538956279fde6cf.jpg",
+    "static/media/maheshKumar.7f20ba80.jpg": "/static/media/maheshKumar.7f20ba80.7f20ba802998810d8a04.jpg",
+    "static/media/f5.3330c9f2.jpg": "/static/media/f5.3330c9f2.3330c9f261035e71768e.jpg",
+    "static/media/cricket.e843ac6b.jpg": "/static/media/cricket.e843ac6b.e843ac6bd4db492117fe.jpg",
+    "static/media/f4.61c4a1d0.jpg": "/static/media/f4.61c4a1d0.61c4a1d06a6fe5c8055b.jpg",
+    "static/media/f9.e9dc7831.jpg": "/static/media/f9.e9dc7831.e9dc78318d8b6f850945.jpg",
+    "static/media/student2.01c6285e.jpg": "/static/media/student2.01c6285e.01c6285e89e436524247.jpg",
+    "static/media/nehaLaddha.062e3574.jpg": "/static/media/nehaLaddha.062e3574.062e3574b471428ebed1.jpg",
+    "static/media/DeepaliMam1.5098de0b.png": "/static/media/DeepaliMam1.5098de0b.5098de0bd512f12b3ec3.png",
+    "static/media/f2.f69462dd.jpg": "/static/media/f2.f69462dd.f69462dd490d837c1682.jpg",
+    "static/media/f8.f962634b.jpg": "/static/media/f8.f962634b.f962634b25b77cf96112.jpg",
+    "static/media/akshayKeswani.d90a17e9.jpg": "/static/media/akshayKeswani.d90a17e9.d90a17e93becf667b0f7.jpg",
+    "static/media/f1.bb943822.jpg": "/static/media/f1.bb943822.bb9438228fd097f68056.jpg",
+    "static/media/f7.90039530.jpg": "/static/media/f7.90039530.9003953081b7e633d02b.jpg",
+    "static/media/ca-found-2.jpeg": "/static/media/ca-found-2.5d1388ce3fa6c317267d.jpeg",
+    "static/media/f6.24782928.jpg": "/static/media/f6.24782928.24782928349bc93041af.jpg",
+    "static/media/all-in-one.jpeg": "/static/media/all-in-one.77b24d904ad5840c660f.jpeg",
+    "static/media/8.cb04cde2.jpg": "/static/media/8.cb04cde2.cb04cde21a6008877524.jpg",
+    "static/media/ca-found.jpeg": "/static/media/ca-found.4ceba3115fe6de85d2ea.jpeg",
+    "static/media/14.be85f886.jpg": "/static/media/14.be85f886.be85f88670d31d13bfae.jpg",
+    "static/media/12-account-2.jpeg": "/static/media/12-account-2.df60e2ee824157abf971.jpeg",
+    "static/media/12th-account.jpeg": "/static/media/12th-account.57142702529ee34ceb98.jpeg",
+    "static/media/1.7f1d9423.JPG": "/static/media/1.7f1d9423.7f1d942321613da9ec94.JPG",
+    "index.html": "/index.html",
+    "main.e1ab0ceb.css.map": "/static/css/main.e1ab0ceb.css.map",
+    "main.f36a57aa.js.map": "/static/js/main.f36a57aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ab0ceb.css",
+    "static/js/main.f36a57aa.js"
+  ]
+}
